@@ -19,10 +19,10 @@
   <img src="./fotos/pok1.bmp">
 </p>
 <p>
-  <img src="./img/poke2.bmp">
+  <img src="./fotos/poke2.bmp">
 </p>
 <p>
-  <img src="./fotos/pok3.bmp">
+  <img src="./fotos/poke3.bmp">
 </p>
 <p>
   <img src="./fotos/poke4.bmp">
