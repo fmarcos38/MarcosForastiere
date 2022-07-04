@@ -1,4 +1,4 @@
-<img align="center" src="./fotos/foto.jpg" alt="img not found">
+
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h2 align="center">Full Stack Developer from Argentina to :earth_americas:</h2>
 
