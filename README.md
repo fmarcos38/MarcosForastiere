@@ -1,4 +1,4 @@
-<img align="center" src="./img/foto.jpg" alt="img not found">
+<img align="center" src="./fotos/foto.jpg" alt="img not found">
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h2 align="center">Full Stack Developer from Argentina to :earth_americas:</h2>
 
@@ -16,14 +16,14 @@
 ## My proyects
 
 <p>
-  <img src="./img/pok1.bmp">
+  <img src="./fotos/pok1.bmp">
 </p>
 <p>
   <img src="./img/poke2.bmp">
 </p>
 <p>
-  <img src="./img/pok3.bmp">
+  <img src="./fotos/pok3.bmp">
 </p>
 <p>
-  <img src="./img/poke4.bmp">
+  <img src="./fotos/poke4.bmp">
 </p>
