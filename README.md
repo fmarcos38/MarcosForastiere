@@ -6,6 +6,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/marcos-forastiere-9b238328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos forastiere" height="30" width="40" /></a>
 </p>
+<p>📫 fmarcos_23@hotmail.com</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Javascript - Html - CSS - ReactJS - Redux - NodeJS - Postgress - Express - </h4>
