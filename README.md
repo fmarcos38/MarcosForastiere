@@ -53,7 +53,8 @@ Me describo como un apacionado por las últimas tendencias en tecnología, me gu
 <span>El cliente pidió solo Landing - que sea lo más directo para la muetra de los productos</span>
 <br></br>
 
-<video src="./fotos/mpr.mp4" controls autoplay loop muted ></video>
+<video src="./fotos/mpr1.mp4" controls autoplay loop muted ></video>
+<video src="./fotos/mpr2.mp4" controls autoplay loop muted ></video>
 
 <br></br>
 <br></br>
