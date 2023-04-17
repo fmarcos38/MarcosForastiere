@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h2 align="center">Full Stack Developer from Argentina to :earth_americas:</h2>
+<h5>Soy un programador full stack con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web.</h5>
+<p>Poseo habilidades tanto del lado del servidor como del cliente, en las siguites herramientas, <b>HTML, CSS, JavaScript, React y Redux, Boostrap, manejo de paquetes (NPM), Node js, Express, SQL, MongoDB, Postman, Git, integracion de APIs.</b>
+Estoy en proceso de aprendisaje de TypeScript, PHP, Docker, y proximamente Python.
+Me describo como un apacionado por las últimas tendencias en tecnología, me gusta trabajar en equipo, afrontar nuevos desafios, y crear soluciones innovadoras y escalables.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
