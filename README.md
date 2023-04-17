@@ -20,7 +20,7 @@ Me describo como un apacionado por las últimas tendencias en tecnología, me gu
 
 ## My proyects:
 <h3>App Web Responsive (E-commerce) para un Café</h3>
-<span>Posee Vista para Cliente(no registrado) - Cliente(registrado) - Adiministradores - Mercadopago </span>
+<span>Posee Vista para Cliente(no registrado) - Cliente(registrado) - Adiministradores - Mercadopago - Envio de mail</span>
 <br></br>
 <span>Landing</span>
 <img src="./fotos/Landing.jpg" alt="img not found" />
@@ -31,11 +31,8 @@ Me describo como un apacionado por las últimas tendencias en tecnología, me gu
 <span>Menú Bebidas Calientes</span>
 <img src="./fotos/imagenMenu.jpg"  alt="img not found"/>
 <br></br>
-<span>Menú</span>
-<img src="./fotos"  alt="img not found"/>
-<br></br>
-<span>Login - con envio de mail para verif cuenta</span>
-<img src="./fotos/loginElven.jpg"  alt="img not found"/>
+<span>Login</span><br></br>
+<img src="./fotos/loginElven.jpg"  alt="img not found" width="400px" higth="300px"/>
 <br></br>
 <span>Vista - Funcionalidades Admin</span>
 <span>Muestra Clientes</span>
@@ -46,3 +43,26 @@ Me describo como un apacionado por las últimas tendencias en tecnología, me gu
 <br></br>
 <span>Productos</span>
 <img src="./fotos/productos.jpg"  alt="img not found"/>
+<br></br>
+<span>Vista Cliente(puede editar sus datos, pass, ver compras)</span>
+<img src="./fotos/productos.jpg"  alt="img not found"/>
+
+<br></br>
+<br></br>
+<h3>App Web - Motos Peralta Ramos </h3>
+<span>El cliente pidió solo Landing - que sea lo más directo para la muetra de los productos</span>
+<br></br>
+
+<video src="./fotos/mpr.mp4" controls autoplay loop muted ></video>
+
+<br></br>
+<br></br>
+<h3>Proyecto Individual Final Bootcamp Soy Henry -App Web con filtros, paginación, conexión con Api externa-</h3>
+<br></br>
+<img src="./fotos/pok1.jpg" alt="img not found" />
+<br></br>
+<img src="./fotos/poke2.jpg" alt="img not found" />
+<br></br>
+<img src="./fotos/poke3.jpg" alt="img not found" />
+<br></br>
+<img src="./fotos/poke4.jpg" alt="img not found" />
