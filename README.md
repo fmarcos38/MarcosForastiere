@@ -50,11 +50,19 @@ Me describo como un apacionado por las últimas tendencias en tecnología, me gu
 <br></br>
 <br></br>
 <h3>App Web - Motos Peralta Ramos </h3>
-<span>El cliente pidió solo Landing - que sea lo más directo para la muetra de los productos</span>
+<span>Proyecto por finalizarse - El cliente pidió solo Landing - que sea lo más directo para la muetra de los productos</span>
+<span>La pagina contiene animaciones - github no me dejó subir video</span>
 <br></br>
+<br></br>
+<span>Landing</span>
+<img src="./fotos/mpr2.jpg"  alt="img not found"/>
+<br></br>
+<span>Vista productos</span>
+<img src="./fotos/mpr3.jpg"  alt="img not found"/>
+<br></br>
+<span>Detalle del producto</span>
+<img src="./fotos/mpr.jpg"  alt="img not found"/>
 
-<video src="./fotos/mpr1.mp4" controls autoplay loop muted ></video>
-<video src="./fotos/mpr2.mp4" controls autoplay loop muted ></video>
 
 <br></br>
 <br></br>
